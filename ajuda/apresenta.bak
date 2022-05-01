@@ -1,0 +1,280 @@
+<html>
+
+<head>
+<title>Ajuda PageMaster</title>
+<meta name="generator" content="(PageMaster........... :-)">
+<link rel="stylesheet" href="file:///D|/Meus documentos/PageMaster/ajuda/padrao.css">
+</head>
+
+<body bgcolor="white" text="black" link="#0000CC" vlink="#0000CC" alink="#0000CC">
+<table cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="750" height="30" valign="top" colspan="2">
+            <p><a href="ajuda.htm"><font color="#0000CC" face="Verdana" size="1">&lt; 
+            voltar</font></a></p>
+            </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2" height="62">
+            <p><font face="Verdana" size="3" color="#0000CC"><b>.::Apresentação do Sistema</b></font>
+            <p><font face="Verdana" size="2">O PageMaster é um sistema para 
+            a confecção de formulários ASP, envio de e-mail atraves dos objetos 
+            AspMail</font><sup><font face="Verdana" size="2">®</font></sup><font face="Verdana" size="2"> 
+            e CDONTS</font><sup><font face="Verdana" size="2">®</font></sup><font face="Verdana" size="2">.</font></p>
+            <p><font face="Verdana" size="2">O formulário são criados com&nbsp;base 
+            de dados Access</font><sup><font face="Verdana" size="2">®</font></sup><font face="Verdana" size="2"> 
+            contendo&nbsp;módulos para consulta, cadastro, exclusão e alteração 
+            de registros. Tudo isso criado com muita facilidade, e sem saber 
+            nada sobre programação para web.</font></p>
+            <p><font face="Verdana" size="2">Para o envio de e-mail são criados 
+            duas páginas ASP, uma para a digitação do dados e outra para o envio 
+            dos mesmo. Facil e simples o PageMaster lhe proporciona facilidade 
+            e agilidade na confecção de páginas para melhorar a aparencia de 
+            seu site e lhe poupando muito tempo.</font></p>
+<hr>                        <p><font face="Verdana" size="3" color="#0000CC"><b>.::Visão 
+            geral das ferramentas</b></font>
+            <p>&nbsp;</p>
+</td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p><font face="Verdana" size="2" color="#0000CC"><b>Barra de Opções...<br>&nbsp;</b></font>        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p>&nbsp;<img src="barra01.jpg" width="669" height="32" border="0"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <table border="0" cellpadding="0" cellspacing="2" width="674">
+                <tr>
+                    <td width="219" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Parâmetro</b></font></td>
+                    <td width="449" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Descrição</b></font></td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Novo 
+                        Projeto</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Abrir um novo projeto 
+                        (Cancela o Atual). [Ctrl+N]</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Definição 
+                        da Página ASP</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Define os itens que 
+                        irão conter na página.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Configurar 
+                        Pàgina ASP</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Define o aspecto da 
+                        página.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Gerar 
+                        Form ASP</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Gera o fomulário (Somente 
+                        depois de definidos os itens acima).</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Sair 
+                        do PageMaster</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Sai do sistema e exclui 
+                        o projeto existente. [Ctrl+X]</font></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="43" colspan="2">
+            <p>&nbsp;
+            <hr>
+            <p><font face="Verdana" size="2" color="#0000CC"><b>Menu de Opções...<br>&nbsp;</b></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="311">
+            <p><img src="barra02.jpg" width="265" height="114" border="0"></p>
+        </td>
+        <td width="439">
+            <p><img src="barra03.jpg" width="319" height="107" border="0"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <table border="0" cellpadding="0" cellspacing="2" width="674">
+                <tr>
+                    <td width="219" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Parâmetro</b></font></td>
+                    <td width="449" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Descrição</b></font></td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                            <p style="margin-left:30pt;"><font size="2" face="Verdana"><b>Arquivo</b></font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">&nbsp;</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Novo 
+                        Projeto</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Abrir um novo projeto 
+                        (Cancela o Atual). [Ctrl+N]</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Sair 
+                        do PageMaster</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Sai do sistema e exclui 
+                        o projeto existente. [Ctrl+X]</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        
+                            <p style="margin-left:30pt;"><font size="2" face="Verdana">Configurações</font></p>
+                        
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">&nbsp;</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana"><a href="caminho.htm">Caminho</a>*</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Define o caminho onde 
+                        os arquivos serão gravados. [Ctrl+M]</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Idioma</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Opção de idioma do 
+                        sistema (Português e Inglês)</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                            
+                        <p style="margin-left:30pt;"><font face="Verdana" size="2"><b>Ajuda</b></font>                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font face="Verdana" size="2">&nbsp;</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font face="Verdana" size="2">Conteúdo</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font face="Verdana" size="2">Exibe à ajuda do sistema 
+                        [F1]</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font face="Verdana" size="2">Página 
+                        Web</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font face="Verdana" size="2">Vai para a página da 
+                        Web do Page Master [Ctrl+W]</font></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p>&nbsp;</p>
+            <hr>
+            <p><font color="#0000CC" size="2" face="Verdana"><b>.::Opções para 
+            iniciar um projeto<br>&nbsp;</b></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p><img src="img2.jpg" width="257" height="179" border="0" alt="img2.jpg"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <table border="0" cellpadding="0" cellspacing="2" width="674">
+                <tr>
+                    <td width="219" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Parâmetro</b></font></td>
+                    <td width="449" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Descrição</b></font></td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font face="Verdana" size="2"><a href="frmAsp.htm">Página 
+                        com formulário ASP</a></font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Inicia um projeto de 
+                        formulários ASP. [Consulta, Exclusão, Inclusão e Alteração] 
+                        com base de Dados do Microsoft<sup>®</sup> Access<sup>®</sup></font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font face="Verdana" size="2">Enviar informações 
+                        com AspMail</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Inicia um Projeto para 
+                        envio de e-mail com o objeto AspMail<sup>®</sup>.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font face="Verdana" size="2">Enviar informações 
+                        com CDonts</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Inicia um Projeto para 
+                        envio de e-mail com o objeto CDONTS<sup>®</sup>.</font></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p><a href="ajuda.htm"><font color="#0000CC" face="Verdana" size="1"><br>&lt; 
+            voltar</font></a></p>
+        </td>
+    </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+
+</html>

@@ -1,0 +1,314 @@
+[Root]
+Most Recent Package=PagemasterSetup
+
+
+[Package|PagemasterSetup|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=G:\Meus documentos\PageMaster\Package
+
+[Package|PagemasterSetup|Configure DAO ISAMs]
+Applicable=No
+
+[Package|PagemasterSetup|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|PagemasterSetup|Files Found]
+
+[Package|PagemasterSetup|Files Released]
+
+[Package|PagemasterSetup|Missing Dependency Information]
+F:\WINNT\system\nslock15vb6.ocx=
+
+[Package|PagemasterSetup|Out-of-Date Dependency Information]
+
+[Package|PagemasterSetup|Files Added]
+G:\Meus documentos\PageMaster\images\delete.gif=
+G:\Meus documentos\PageMaster\images\edit.gif=
+G:\Meus documentos\PageMaster\campos.mdb=
+G:\Meus documentos\PageMaster\ajuda\abrir.jpg=
+G:\Meus documentos\PageMaster\ajuda\ajuda.htm=
+G:\Meus documentos\PageMaster\ajuda\ajuda.jpg=
+G:\Meus documentos\PageMaster\ajuda\apresenta.htm=
+G:\Meus documentos\PageMaster\ajuda\asp1.gif=
+G:\Meus documentos\PageMaster\ajuda\asp1.jpg=
+G:\Meus documentos\PageMaster\ajuda\asp2.jpg=
+G:\Meus documentos\PageMaster\ajuda\asp3.jpg=
+G:\Meus documentos\PageMaster\ajuda\asp4.jpg=
+G:\Meus documentos\PageMaster\ajuda\asp5.jpg=
+G:\Meus documentos\PageMaster\ajuda\asp6.jpg=
+G:\Meus documentos\PageMaster\ajuda\asp7.jpg=
+G:\Meus documentos\PageMaster\ajuda\aspmail.htm=
+G:\Meus documentos\PageMaster\ajuda\aspmailII.htm=
+G:\Meus documentos\PageMaster\ajuda\barra01.jpg=
+G:\Meus documentos\PageMaster\ajuda\barra02.jpg=
+G:\Meus documentos\PageMaster\ajuda\barra03.jpg=
+G:\Meus documentos\PageMaster\ajuda\caixa1.jpg=
+G:\Meus documentos\PageMaster\ajuda\caminho.htm=
+G:\Meus documentos\PageMaster\ajuda\campo1.jpg=
+G:\Meus documentos\PageMaster\ajuda\frmAsp.htm=
+G:\Meus documentos\PageMaster\ajuda\frmAspII.htm=
+G:\Meus documentos\PageMaster\ajuda\iaparencia.jpg=
+G:\Meus documentos\PageMaster\ajuda\img1.jpg=
+G:\Meus documentos\PageMaster\ajuda\img10.jpg=
+G:\Meus documentos\PageMaster\ajuda\img11.jpg=
+G:\Meus documentos\PageMaster\ajuda\img12.jpg=
+G:\Meus documentos\PageMaster\ajuda\img2.jpg=
+G:\Meus documentos\PageMaster\ajuda\img6.gif=
+G:\Meus documentos\PageMaster\ajuda\img6.jpg=
+G:\Meus documentos\PageMaster\ajuda\img7.jpg=
+G:\Meus documentos\PageMaster\ajuda\img8.jpg=
+G:\Meus documentos\PageMaster\ajuda\img9.jpg=
+G:\Meus documentos\PageMaster\ajuda\padrao.css=
+G:\Meus documentos\PageMaster\ajuda\pagemaster.jpg=
+G:\Meus documentos\PageMaster\ajuda\path=
+G:\Meus documentos\PageMaster\ajuda\path.jpg=
+G:\Meus documentos\PageMaster\ajuda\symble_asterisk_blue.gif=
+G:\Meus documentos\PageMaster\ajuda\todos.gif=
+G:\Meus documentos\PageMaster\ajuda\vaium.gif=
+G:\Meus documentos\PageMaster\ajuda\vemum.gif=
+G:\Meus documentos\PageMaster\ajuda\voltatodos.gif=
+
+[Package|PagemasterSetup|Files Removed]
+
+[Package|PagemasterSetup|Files In Project]
+G:\Meus documentos\PageMaster\pagemaster.exe=Yes
+F:\WINNT\system32\msvbvm60.dll=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+F:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=Yes
+F:\WINNT\system32\msjet40.dll=Yes
+F:\WINNT\system32\msjter40.dll=Yes
+F:\WINNT\system32\msjint40.dll=Yes
+F:\WINNT\system32\vbajet32.dll=Yes
+F:\WINNT\system32\expsrv.dll=Yes
+F:\WINNT\system32\mswstr10.dll=Yes
+F:\WINNT\system32\mswdat10.dll=Yes
+F:\WINNT\system32\msrd2x40.dll=Yes
+F:\WINNT\system32\msrd3x40.dll=Yes
+F:\WINNT\system32\msrepl40.dll=Yes
+F:\WINNT\system32\msjtes40.dll=Yes
+F:\WINNT\system32\VB5DB.DLL=Yes
+F:\Arquivos de programas\Arquivos comuns\designer\MSCDRUN.DLL=Yes
+F:\WINNT\system32\MSRDO20.DLL=Yes
+F:\WINNT\system32\RDOCURS.DLL=Yes
+F:\WINNT\system32\COMDLG32.OCX=Yes
+F:\WINNT\system32\MSCOMCTL.OCX=Yes
+F:\WINNT\system\nslock15vb6.ocx=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+F:\WINNT\system32\VB6STKIT.DLL=Yes
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+G:\Meus documentos\PageMaster\images\delete.gif=Yes
+G:\Meus documentos\PageMaster\images\edit.gif=Yes
+G:\Meus documentos\PageMaster\campos.mdb=Yes
+G:\Meus documentos\PageMaster\ajuda\abrir.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\ajuda.htm=Yes
+G:\Meus documentos\PageMaster\ajuda\ajuda.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\apresenta.htm=Yes
+G:\Meus documentos\PageMaster\ajuda\asp1.gif=Yes
+G:\Meus documentos\PageMaster\ajuda\asp1.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\asp2.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\asp3.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\asp4.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\asp5.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\asp6.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\asp7.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\aspmail.htm=Yes
+G:\Meus documentos\PageMaster\ajuda\aspmailII.htm=Yes
+G:\Meus documentos\PageMaster\ajuda\barra01.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\barra02.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\barra03.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\caixa1.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\caminho.htm=Yes
+G:\Meus documentos\PageMaster\ajuda\campo1.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\frmAsp.htm=Yes
+G:\Meus documentos\PageMaster\ajuda\frmAspII.htm=Yes
+G:\Meus documentos\PageMaster\ajuda\iaparencia.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img1.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img10.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img11.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img12.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img2.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img6.gif=Yes
+G:\Meus documentos\PageMaster\ajuda\img6.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img7.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img8.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\img9.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\padrao.css=Yes
+G:\Meus documentos\PageMaster\ajuda\pagemaster.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\path=Yes
+G:\Meus documentos\PageMaster\ajuda\path.jpg=Yes
+G:\Meus documentos\PageMaster\ajuda\symble_asterisk_blue.gif=Yes
+G:\Meus documentos\PageMaster\ajuda\todos.gif=Yes
+G:\Meus documentos\PageMaster\ajuda\vaium.gif=Yes
+G:\Meus documentos\PageMaster\ajuda\vemum.gif=Yes
+G:\Meus documentos\PageMaster\ajuda\voltatodos.gif=Yes
+
+[Package|PagemasterSetup|Configure Registry Files]
+Applicable=No
+
+[Package|PagemasterSetup|Configure Remote Servers]
+Applicable=No
+
+[Package|PagemasterSetup|Install Locations]
+G:\Meus documentos\PageMaster\pagemaster.exe=$(AppPath)
+F:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+F:\Arquivos de programas\Arquivos comuns\Microsoft Shared\DAO\dao360.dll=$(MSDAOPath)
+F:\WINNT\system32\msjet40.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\msjter40.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\msjint40.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\vbajet32.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\expsrv.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\mswstr10.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\mswdat10.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\msrd2x40.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\msrd3x40.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\msrepl40.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\msjtes40.dll=$(WinSysPathSysFile)
+F:\WINNT\system32\VB5DB.DLL=$(WinSysPath)
+F:\Arquivos de programas\Arquivos comuns\designer\MSCDRUN.DLL=$(CommonFiles)\Designer
+F:\WINNT\system32\MSRDO20.DLL=$(WinSysPath)
+F:\WINNT\system32\RDOCURS.DLL=$(WinSysPath)
+F:\WINNT\system32\COMDLG32.OCX=$(WinSysPath)
+F:\WINNT\system32\MSCOMCTL.OCX=$(WinSysPath)
+F:\WINNT\system\nslock15vb6.ocx=$(WinSysPath)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+F:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+G:\Meus documentos\PageMaster\images\delete.gif=$(AppPath)\images
+G:\Meus documentos\PageMaster\images\edit.gif=$(AppPath)\images
+G:\Meus documentos\PageMaster\campos.mdb=$(AppPath)
+G:\Meus documentos\PageMaster\ajuda\abrir.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\ajuda.htm=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\ajuda.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\apresenta.htm=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\asp1.gif=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\asp1.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\asp2.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\asp3.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\asp4.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\asp5.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\asp6.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\asp7.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\aspmail.htm=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\aspmailII.htm=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\barra01.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\barra02.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\barra03.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\caixa1.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\caminho.htm=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\campo1.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\frmAsp.htm=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\frmAspII.htm=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\iaparencia.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img1.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img10.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img11.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img12.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img2.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img6.gif=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img6.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img7.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img8.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\img9.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\padrao.css=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\pagemaster.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\path=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\path.jpg=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\symble_asterisk_blue.gif=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\todos.gif=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\vaium.gif=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\vemum.gif=$(AppPath)\ajuda
+G:\Meus documentos\PageMaster\ajuda\voltatodos.gif=$(AppPath)\ajuda
+
+[Package|PagemasterSetup|Configure Shared Files]
+Applicable=Yes
+G:\Meus documentos\PageMaster\pagemaster.exe=No
+F:\Arquivos de programas\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+G:\Meus documentos\PageMaster\images\delete.gif=No
+G:\Meus documentos\PageMaster\images\edit.gif=No
+G:\Meus documentos\PageMaster\campos.mdb=No
+G:\Meus documentos\PageMaster\ajuda\abrir.jpg=No
+G:\Meus documentos\PageMaster\ajuda\ajuda.htm=Yes
+G:\Meus documentos\PageMaster\ajuda\ajuda.jpg=No
+G:\Meus documentos\PageMaster\ajuda\apresenta.htm=No
+G:\Meus documentos\PageMaster\ajuda\asp1.gif=No
+G:\Meus documentos\PageMaster\ajuda\asp1.jpg=No
+G:\Meus documentos\PageMaster\ajuda\asp2.jpg=No
+G:\Meus documentos\PageMaster\ajuda\asp3.jpg=No
+G:\Meus documentos\PageMaster\ajuda\asp4.jpg=No
+G:\Meus documentos\PageMaster\ajuda\asp5.jpg=No
+G:\Meus documentos\PageMaster\ajuda\asp6.jpg=No
+G:\Meus documentos\PageMaster\ajuda\asp7.jpg=No
+G:\Meus documentos\PageMaster\ajuda\aspmail.htm=No
+G:\Meus documentos\PageMaster\ajuda\aspmailII.htm=No
+G:\Meus documentos\PageMaster\ajuda\barra01.jpg=No
+G:\Meus documentos\PageMaster\ajuda\barra02.jpg=No
+G:\Meus documentos\PageMaster\ajuda\barra03.jpg=No
+G:\Meus documentos\PageMaster\ajuda\caixa1.jpg=No
+G:\Meus documentos\PageMaster\ajuda\caminho.htm=No
+G:\Meus documentos\PageMaster\ajuda\campo1.jpg=No
+G:\Meus documentos\PageMaster\ajuda\frmAsp.htm=No
+G:\Meus documentos\PageMaster\ajuda\frmAspII.htm=No
+G:\Meus documentos\PageMaster\ajuda\iaparencia.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img1.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img10.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img11.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img12.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img2.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img6.gif=No
+G:\Meus documentos\PageMaster\ajuda\img6.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img7.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img8.jpg=No
+G:\Meus documentos\PageMaster\ajuda\img9.jpg=No
+G:\Meus documentos\PageMaster\ajuda\padrao.css=No
+G:\Meus documentos\PageMaster\ajuda\pagemaster.jpg=No
+G:\Meus documentos\PageMaster\ajuda\path=No
+G:\Meus documentos\PageMaster\ajuda\path.jpg=No
+G:\Meus documentos\PageMaster\ajuda\symble_asterisk_blue.gif=No
+G:\Meus documentos\PageMaster\ajuda\todos.gif=No
+G:\Meus documentos\PageMaster\ajuda\vaium.gif=No
+G:\Meus documentos\PageMaster\ajuda\vemum.gif=No
+G:\Meus documentos\PageMaster\ajuda\voltatodos.gif=No
+
+[Package|PagemasterSetup|Distribution]
+Type=single
+Size=
+Title=PageMaster 1.0 Full
+
+[Package|PagemasterSetup|IconGroups]
+Group0=PageMaster 1.0 Full
+PrivateGroup0=-1
+Parent0=$(Programs)
+
+[Package|PagemasterSetup|PageMaster 1.0 Full]
+Icon1=ajuda.htm
+Title1=Ajuda PageMaster
+StartIn1=$(AppPath)/ajuda
+Key1=Icon3
+Icon2=pagemaster.exe
+Title2=PageMaster 1.0 Full
+StartIn2=$(AppPath)
+Key2=Icon1
+
+[Package|PagemasterSetup|Package]
+PackageFolder=G:\Meus documentos\PageMaster\Package
+ProjectFolder=G:\Meus documentos\PageMaster
+ServerSideCab=
+File1=G:\Meus documentos\PageMaster\Package\setup.exe
+File2=G:\Meus documentos\PageMaster\Package\Setup.Lst
+File3=G:\Meus documentos\PageMaster\Package\pagemaster.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

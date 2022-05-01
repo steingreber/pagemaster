@@ -1,0 +1,308 @@
+<html>
+
+<head>
+<title>Página com formulário ASP</title>
+<meta name="generator" content="(PageMaster........... :-)">
+<link rel="stylesheet" href="padrao.css">
+</head>
+
+<body bgcolor="white" text="black" link="#0000CC" vlink="#0000CC" alink="#0000CC">
+<table cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="750" height="30" valign="top" colspan="2">
+            <p><a href="ajuda.htm"><font color="#0000CC" face="Verdana" size="1">&lt; 
+            voltar</font></a></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p><font face="Verdana" size="3" color="#0000CC"><b>.::Páginas com formulário 
+            ASP</b></font><hr>            </td>
+    </tr>
+    <tr>
+        <td width="750" height="31" colspan="2">
+            <ul>
+                <li><font size="2" face="Verdana"><a href="#Abrindo">Abrindo 
+                uma base da dados Access</a></font><sup><font face="Verdana" size="2">®</font></sup></li>
+                <li><font size="2" face="Verdana"><a href="#Manipulando">Manipulando 
+                os registro da Tabela</a></font></li>
+                <li><font size="2" face="Verdana"><a href="#Nota1">Nota Importante 
+                I</a></font></li>
+                <li><font size="2" face="Verdana"><a href="#Nota2">Nota Importante 
+                II</a></font></li>
+                <li><font size="2" face="Verdana"><a href="frmAspII.htm">Aparência 
+                da página</a></font></li>
+            </ul>
+            <p><font size="2" face="Verdana">&nbsp;</font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="31" colspan="2">
+            <p><font face="Verdana" size="2" color="#0000CC"><b><a name="Abrindo"></a>Abrindo uma 
+            base de dados Access</b></font><sup><font face="Verdana" size="2" color="#0000CE">®</font></sup><font face="Verdana" size="2" color="#0000CC"><b>...</b></font>        </td>
+    </tr>
+    <tr>
+        <td width="750" height="107" colspan="2">
+            <p><font size="2" face="Verdana">Inicie um novo projeto de formulário 
+            ASP selecionando o item com o descrito abaixo:</font><br><img src="img8.jpg" width="260" height="58" border="0" alt="img8.jpg"></p>
+            <hr>        </td>
+    </tr>
+    <tr>
+        <td width="410">
+            <p>&nbsp;<img src="abrir.jpg" width="389" height="364" border="0"></p>
+        </td>
+        <td width="340" valign="top">
+            <p><font face="Verdana" size="2">Selecione o arquivo Access</font><sup><font face="Verdana" size="2">®</font></sup><font face="Verdana" size="2"> 
+            e ele será exibido na tela de abertura ao lado &nbsp;com suas repectivas 
+            tabelas.</font></p>
+            <p><font face="Verdana" size="2">Selecione a tabela desejada para 
+            a confecção de sua página.</font></p>
+            <p><font face="Verdana" size="2">Selecione os campos que deseja 
+            que apareça no formulário ou clique em todos <img src="todos.gif" width="20" height="20" border="0" alt="img1.gif">&nbsp;para 
+            selecionar toda a tabela.</font></p>
+            <p><font face="Verdana" size="2" color="#BD3200"><b><img src="symble_asterisk_blue.gif" width="13" height="14" border="0" alt="symble_asterisk_blue.gif"> 
+            <a name="Nota1"></a></b></font><font face="Verdana" size="2" color="#0000CE"><b>Nota importante:<br></b>Para 
+            o perfeito funcionamento do formulário ASP o primeiro campo a ser 
+            selecionado deve obrigatóriamente ser um campo indexado na tabela, 
+            o seja, um campo do tipo &quot;AutoNumeração&quot; ou o identificador 
+            da tabela para que os registro possam 
+            ser manipulados com perfeição.</font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="40" valign="bottom" colspan="2">
+            <table border="0" cellpadding="0" cellspacing="2" width="674">
+                <tr>
+                    <td width="219" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Parâmetro</b></font></td>
+                    <td width="449" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Descrição</b></font></td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Base de Dados Access</font><sup><font face="Verdana" size="2">®</font></sup></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">ACaminho e nome da 
+                        base de dados selecionda.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Tabelas</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Nome das tabelas da 
+                        base de dados.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Campos da Tabela</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Nome dos campos da 
+                        Tabela a serem selecionados</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Campos do Formulário</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Capos selecionados 
+                        para a confecção da página ASP.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p align="center"><img src="vaium.gif" width="20" height="21" border="0" alt="img2.gif"></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Seleciona campos um 
+                        a um.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p align="center"><font size="2" face="Verdana"><img src="todos.gif" width="20" height="20" border="0"></font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Seleciona todos os 
+                        campos.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p align="center"><img src="voltatodos.gif" width="20" height="23" border="0" alt="img4.gif"></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Remove todos os&nbsp;campos.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p align="center"><img src="vemum.gif" width="19" height="21" border="0" alt="img5.gif"></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Remove os&nbsp;campos 
+                        um a um.</font></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="40" valign="bottom" colspan="2">
+            <p>&nbsp;
+            
+            <p><hr><font face="Verdana" size="2" color="#0000CC"><b><a name="Manipulando"></a>Manipulando 
+            os registros da tabela...</b></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="40" valign="bottom" colspan="2">
+            <p><img src="img9.jpg" width="120" height="33" border="0" alt="img9.jpg"><br>&nbsp;</p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="40" valign="bottom" colspan="2">
+            <p><img src="img6.jpg" width="686" height="345" border="0"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="40" valign="bottom" colspan="2">
+            <p><font face="Verdana" size="2"><br>Após selecionar os itens da 
+            tabela será exibida a tela acima, nela faz-se a formatação dos dados 
+            e da apresentação do itens no formulário</font></p>
+            <p><font face="Verdana" size="2">Cada item selecionado no campo 
+            &quot;Campos do Formulário&quot; serão apresentados a direita em 
+            &quot;Configurações dos campos do Formulário&quot; onde os dados 
+            serão formatados.<br>Nele pode-se formatar várias opções de campo 
+            como segue:</font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="40" valign="bottom" colspan="2">
+            <table border="0" cellpadding="0" cellspacing="2" width="674">
+                <tr>
+                    <td width="226" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Parâmetro</b></font></td>
+                    <td width="442" bgcolor="black" colspan="2">            <p><font face="Verdana" size="2" color="white"><b>Descrição</b></font></td>
+                </tr>
+                <tr>
+                    <td width="226" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Nome do rótulo para 
+                        este campo.</font></p>
+                    </td>
+                    <td width="442" bgcolor="#CCCCCC" height="25" colspan="2">
+                        <p><font size="2" face="Verdana">Como será apresentado 
+                        para o usuário o nome deste campo.<br>Ex. &quot;DEQUEM&quot; 
+                        para &quot;DE QUEM&quot;</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="226" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Este campo aceita valores 
+                        nulos?</font></p>
+                    </td>
+                    <td width="442" bgcolor="#CCCCCC" height="25" colspan="2">
+                        <p><font size="2" face="Verdana">Se estiver marcado 
+                        não haverá a necessidade preencher o campo. Para torna-ló 
+                        obrigatório retire o tik.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="226" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Exibir este campo? 
+                        *</font></p>
+                    </td>
+                    <td width="442" bgcolor="#CCCCCC" height="25" colspan="2">
+                        <p><font size="2" face="Verdana">Define se este campo 
+                        será apresentado ou não no formulário.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="226" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Valoe inicial (Se necessário)</font></p>
+                    </td>
+                    <td width="442" bgcolor="#CCCCCC" height="25" colspan="2">
+                        <p><font size="2" face="Verdana">Define um valor para 
+                        o inicio da digitação.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="226" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Tamanho deste Campo</font></p>
+                    </td>
+                    <td width="442" bgcolor="#CCCCCC" height="25" colspan="2">
+                        <p><font size="2" face="Verdana">Define o tamanho que 
+                        o campo será apresentado no formulário.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="226" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Quantidade máxima de 
+                        caracteres</font></p>
+                    </td>
+                    <td width="442" bgcolor="#CCCCCC" height="25" colspan="2">
+                        <p><font size="2" face="Verdana">Qual a quantidade máxima 
+                        de caracteres o usuário pode digitar</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="226" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Este é um campo de 
+                        Senha</font></p>
+                    </td>
+                    <td width="442" bgcolor="#CCCCCC" height="25" colspan="2">
+                        <p><font size="2" face="Verdana">Se for um campo de 
+                        senha marque sim e será exibido &quot;*&quot;</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="226" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Tipo de campo para 
+                        este registro</font></p>
+                    </td>
+                    <td width="442" height="25" bgcolor="#CECFCE" colspan="2">
+                        <p><font size="2" face="Verdana">Como será exibido este 
+                        campo.<br> </font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="226" height="25" valign="top">
+                        <p>&nbsp;</p>
+                    </td>
+                    <td width="202" height="25">
+                        <p><font size="2" face="Verdana">Caixa de Texto:<br><img src="caixa1.jpg" align="absmiddle" width="148" height="114" border="0" alt="caixa1.jpg"></font></p>
+                    </td>
+                    <td width="238" height="25" valign="top">
+                        <p><font size="2" face="Verdana">Campo de Texto:<br><img src="campo1.jpg" align="absmiddle" width="150" height="33" border="0" alt="campo1.jpg"></font></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" height="40" valign="bottom" colspan="2">
+            <hr>            <p><font face="Verdana" size="2" color="#BD3200"><b><img src="symble_asterisk_blue.gif" width="13" height="14" border="0" alt="symble_asterisk_blue.gif"> 
+            </b></font><font face="Verdana" size="2" color="#0000CE"><b>N<a name="Nota2"></a>ota importante:<br></b>Para 
+            o perfeito funcionamento do formulário ASP o primeiro campo a ser 
+            formatado, que é o primeiro campo selecionado da tabela,&nbsp;mencionado 
+            anteriormente, em nosso exempo de &quot;AutoNumeração&quot; ou o 
+            identificador da tabela&nbsp;deve obrigatóriamente ser marcado para 
+            não ser exibido. Para isso remova o tik.<br>&nbsp;<img src="img7.jpg" width="417" height="105" border="0" alt="img7.jpg"></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="410" height="40" valign="bottom">
+            <p><a href="ajuda.htm"><font color="#0000CC" face="Verdana" size="1">&lt; 
+            voltar</font></a></p>
+        </td>
+        <td width="340" height="40" valign="bottom">
+            <p align="right"><a href="frmAspII.htm"><font color="#0000CC" face="Verdana" size="1">segue&nbsp;&gt;</font></a></p>
+        </td>
+    </tr>
+</table>
+<p>&nbsp;</p>
+</body>
+
+</html>

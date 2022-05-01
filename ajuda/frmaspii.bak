@@ -1,0 +1,239 @@
+<html>
+
+<head>
+<title>Ajuda PageMaster</title>
+<meta name="generator" content="(PageMaster........... :-)">
+<link rel="stylesheet" href="padrao.css">
+</head>
+
+<body bgcolor="white" text="black" link="#0000CE" vlink="#0000CE" alink="#0000CE">
+<table cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="354" height="26" valign="top">            <p><a href="frmAsp.htm"><font color="#0000CC" face="Verdana" size="1">&lt; 
+            voltar</font></a></p>
+        </td>
+        <td width="396" height="26" valign="top">            <p><a href="ajuda.htm"><font color="#0000CC" face="Verdana" size="1">&lt; inicio</font></a></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">            <p><font face="Verdana" size="3" color="#0000CC"><b>.::Aparência 
+            da Páginas do formulário 
+            ASP</b></font></td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <hr>
+            <ul>
+                <li><font size="2" face="Verdana"><a href="#Definindo">Definindo 
+                a aparência da página</a></font></li>
+                <li><font size="2" face="Verdana"><a href="#projeto">Concluíndo 
+                o projeto</a></font></li>
+                <li><font size="2" face="Verdana"><a href="#Resultado">Resultado 
+                Final</a></font></li>
+            </ul>
+            <p><font size="2" face="Verdana">&nbsp;</font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">            <p><font face="Verdana" size="2" color="#0000CC"><b><a name="Definindo"></a>Definindo 
+            a aparência da página...</b></font></td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p><font face="Verdana" size="2">Nesta etapa é apresentada a tela 
+            para a definição da página, como páginação, títulos, etc.</font></p>
+            <p><font face="Verdana" size="2"><img src="img10.jpg" width="104" height="31" border="0" alt="img10.jpg"><br>&nbsp;</font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p><img src="iaparencia.jpg" width="660" height="329" border="0" alt="iaparencia.jpg"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">            <table border="0" cellpadding="0" cellspacing="2" width="674">
+                <tr>
+                    <td width="219" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Parâmetro</b></font></td>
+                    <td width="449" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Descrição</b></font></td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Paginação</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Quantos registro da 
+                        tabela serão exibidos por página.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Alterar cores das linhas</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">DAs cores das linhas 
+                        da tabela serão altenadas.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Exibir as bordas das 
+                        tabelas</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">DExibi ou não as bordas 
+                        da tabela no formulário.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Gerar 
+                        Form ASP</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Gera o fomulário (Somente 
+                        depois de definidos os itens acima).</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Etilo da Fonte</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Selecione o tipo de 
+                        fonte para a apresentação dos formulários.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Tamanho da Fonte</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Altera o tamanho da 
+                        fonte no formulário de consulta</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Titulos</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Define o titulo para 
+                        cada formulário</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Nome do arquivo ASP</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Nome para o arquivo 
+                        a ser criado</font></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <hr>            <p><font face="Verdana" size="2" color="#0000CC"><b>Concluíndo 
+            o pro<a name="projeto"></a>jeto...</b></font></td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p><img src="img12.jpg" width="105" height="29" border="0" alt="img12.jpg"></p>
+            <p><font face="Verdana"><span style="font-size:10pt;">Clique em 
+            gerar Form ASP e será apresentada a tela a seguir:</span></font></p>
+            <p><font face="Verdana"><span style="font-size:10pt;">&nbsp;</span></font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2">
+            <p><img src="img11.jpg" width="685" height="367" border="0" alt="img11.jpg"></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2" height="186">            <table border="0" cellpadding="0" cellspacing="2" width="674">
+                <tr>
+                    <td width="219" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Parâmetro</b></font></td>
+                    <td width="449" bgcolor="black">            <p><font face="Verdana" size="2" color="white"><b>Descrição</b></font></td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Conexão</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Faz a conecção com 
+                        a base de dados. Altere o caminho do Banco de dados 
+                        quando a página for colocada em um servidor Web.</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Consulta</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Página de consulta 
+                        da tabela</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Inclusão</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Página de inclusão 
+                        de dados na tabela</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Alteração</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Página de alteração 
+                        de dados na tabela</font></p>
+                    </td>
+                </tr>
+                <tr>
+                    <td width="219" bgcolor="silver" height="25">
+                        <p><font size="2" face="Verdana">Sair 
+                        do PageMaster</font></p>
+                    </td>
+                    <td width="449" bgcolor="#CCCCCC" height="25">
+                        <p><font size="2" face="Verdana">Sai do sistema e exclui 
+                        o projeto existente. [Ctrl+X]</font></p>
+                    </td>
+                </tr>
+            </table>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2" height="44">
+            <hr>            <p><font face="Verdana" size="2" color="#0000CC"><b>R<a name="Resultado"></a>esultado 
+            Final...</b></font></td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2" height="44">
+            <p><font size="2" face="Verdana">Aparência final após a conclusão 
+            do projeto...</font></p>
+        </td>
+    </tr>
+    <tr>
+        <td width="750" colspan="2" height="459">
+            <p><img src="img6.gif" width="596" height="392" border="0"></p>
+            <p>&nbsp;</p>
+        </td>
+    </tr>
+</table>
+<table cellpadding="0" cellspacing="0">
+    <tr>
+        <td width="354" height="42" valign="top">            <p><a href="frmAsp.htm"><font color="#0000CC" face="Verdana" size="1">&lt; 
+            voltar</font></a></p>
+        </td>
+        <td width="396" height="42" valign="top">            <p><a href="ajuda.htm"><font color="#0000CC" face="Verdana" size="1">&lt; inicio</font></a></p>
+        </td>
+    </tr>
+</table>
+</body>
+
+</html>
